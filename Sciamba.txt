@@ -1,0 +1,39 @@
+Sciamba
+
+// 1° Quadrimestre
+    No interrogazione
+
+    1° Verifica (Ottobre)
+    -> Indirizzamenti
+        Subnetting 
+        Sider
+        VLSM
+    Pratica (8) + Teoria (10)
+
+// 2° Quadrimestre
+    Interrogazione
+    (Ordine Alfabetico)
+
+    -> Gennaio 
+    Se esce Sistemi -> Maggio
+
+    > Simulazione di tema d'esame
+
+
+    // Maggio -> Simulazione 6 ore // 
+
+
+    Pratica - Laboratorio
+
+    IPV4 -> Classi A,b,C
+
+    Dispositivi Packet -> Switch, Router
+
+    Revisione Indirizzamenti (Settembre, Ottobre)
+        -> Tornano sempre
+
+    Routing Statico 
+        -> 
+
+
+
